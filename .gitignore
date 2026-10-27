@@ -1,0 +1,8 @@
+**/node_modules/
+**/target/
+**/dist/
+**/__pycache__/
+**/.venv/
+**/.env
+**/.env.*
+!**/.env.example
